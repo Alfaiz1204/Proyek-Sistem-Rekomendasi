@@ -2,11 +2,12 @@
 data/raw/
 data/interim/
 data/processed/
-artikel/*.pdf
-artikel/*.zip
 
-# Luaran eksperimen
-results/*.json
+# Paper referensi: pola ** agar subfolder ikut terkena.
+artikel/**/*.pdf
+artikel/**/*.zip
+
+# Log eksperimen. Hasil akhir JSON di results/ sengaja TETAP dilacak.
 logs/
 
 __pycache__/
