@@ -1,0 +1,90 @@
+[
+  {
+    "delta_max": 0.05,
+    "min_cosine": 0.9987,
+    "ndcg_cold_mean": 0.221,
+    "ndcg_cold_std": 0.0187,
+    "ndcg_warm_mean": 0.407,
+    "ndcg_warm_std": 0.0155,
+    "ndcg_total_mean": 0.3295,
+    "ndcg_total_std": 0.0055,
+    "delta_at_cap_pct": 100.0
+  },
+  {
+    "delta_max": 0.1,
+    "min_cosine": 0.995,
+    "ndcg_cold_mean": 0.2155,
+    "ndcg_cold_std": 0.0165,
+    "ndcg_warm_mean": 0.4676,
+    "ndcg_warm_std": 0.015,
+    "ndcg_total_mean": 0.3626,
+    "ndcg_total_std": 0.0023,
+    "delta_at_cap_pct": 100.0
+  },
+  {
+    "delta_max": 0.2,
+    "min_cosine": 0.9798,
+    "ndcg_cold_mean": 0.1602,
+    "ndcg_cold_std": 0.0126,
+    "ndcg_warm_mean": 0.5239,
+    "ndcg_warm_std": 0.009,
+    "ndcg_total_mean": 0.3725,
+    "ndcg_total_std": 0.0054,
+    "delta_at_cap_pct": 99.98
+  },
+  {
+    "delta_max": 0.3,
+    "min_cosine": 0.9539,
+    "ndcg_cold_mean": 0.1325,
+    "ndcg_cold_std": 0.0097,
+    "ndcg_warm_mean": 0.5338,
+    "ndcg_warm_std": 0.0035,
+    "ndcg_total_mean": 0.3667,
+    "ndcg_total_std": 0.004,
+    "delta_at_cap_pct": 98.63
+  },
+  {
+    "delta_max": 0.4,
+    "min_cosine": 0.9165,
+    "ndcg_cold_mean": 0.1165,
+    "ndcg_cold_std": 0.0068,
+    "ndcg_warm_mean": 0.5315,
+    "ndcg_warm_std": 0.0054,
+    "ndcg_total_mean": 0.3587,
+    "ndcg_total_std": 0.0043,
+    "delta_at_cap_pct": 85.68
+  },
+  {
+    "delta_max": 0.5,
+    "min_cosine": 0.866,
+    "ndcg_cold_mean": 0.1265,
+    "ndcg_cold_std": 0.0145,
+    "ndcg_warm_mean": 0.5321,
+    "ndcg_warm_std": 0.005,
+    "ndcg_total_mean": 0.3632,
+    "ndcg_total_std": 0.0081,
+    "delta_at_cap_pct": 60.97
+  },
+  {
+    "delta_max": 0.7,
+    "min_cosine": 0.7141,
+    "ndcg_cold_mean": 0.1638,
+    "ndcg_cold_std": 0.0117,
+    "ndcg_warm_mean": 0.5323,
+    "ndcg_warm_std": 0.0025,
+    "ndcg_total_mean": 0.3789,
+    "ndcg_total_std": 0.0053,
+    "delta_at_cap_pct": 17.05
+  },
+  {
+    "delta_max": 0.9,
+    "min_cosine": 0.4359,
+    "ndcg_cold_mean": 0.1619,
+    "ndcg_cold_std": 0.0117,
+    "ndcg_warm_mean": 0.5301,
+    "ndcg_warm_std": 0.0038,
+    "ndcg_total_mean": 0.3768,
+    "ndcg_total_std": 0.0063,
+    "delta_at_cap_pct": 0.44
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "interaksi_awal": 194537,
+    "interaksi_berkonten": 194537,
+    "boundary_ts": 1603808855,
+    "n_users_train": 7321,
+    "n_users_test": 544,
+    "n_items_total": 7175,
+    "n_items_train": 5922,
+    "n_items_cold": 1253,
+    "pct_items_cold": 17.46,
+    "pct_test_cold_gt": 33.09,
+    "avg_seq_len": 21.7
+  },
+  "result": {
+    "hr@10_cold": 0.28888888888888886,
+    "ndcg@10_cold": 0.14075937902530164,
+    "n_cold": 180,
+    "hr@10_warm": 0.6483516483516484,
+    "ndcg@10_warm": 0.49028232556607987,
+    "n_warm": 364,
+    "hr@10_total": 0.5294117647058824,
+    "ndcg@10_total": 0.37463135060773417,
+    "n_total": 544,
+    "model": "delta",
+    "seed": 42,
+    "best_epoch": 2,
+    "val_ndcg": 0.5792363399395256,
+    "train_minutes": 0.06,
+    "delta_norm_mean": 0.30232489109039307,
+    "delta_at_cap_pct": 4.43205574912892
+  }
+}

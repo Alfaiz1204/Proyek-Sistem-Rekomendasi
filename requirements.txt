@@ -1,0 +1,10 @@
+# Jalankan dengan Python 3.10 64-bit.
+# Python 3.8 32-bit yang ada di PATH TIDAK bisa dipakai (torch tidak tersedia,
+# dan batas memori 32-bit tidak cukup untuk memproses user-video.json 3,18 GB).
+torch>=2.1          # sudah terpasang: 2.5.1+cu121
+transformers>=4.40  # encoder multilingual-E5
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3   # PCA
+pyarrow>=14.0       # penyimpanan parquet
+tqdm>=4.65

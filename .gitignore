@@ -1,0 +1,14 @@
+# Data mentah dan turunannya tidak masuk repo (ukurannya GB).
+data/raw/
+data/interim/
+data/processed/
+artikel/*.pdf
+artikel/*.zip
+
+# Luaran eksperimen
+results/*.json
+logs/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
